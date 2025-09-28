@@ -6,7 +6,11 @@ Ingénieur Bio-informaticien
 
 Dans ce dépot vous pouvez accéder à mes rapports Latex
 
-[![Lab Book](logo/logo_lab_book.png)](https://github.com/OwenGriere/Lab_Book) 
+<p align="center">
+  <a href="https://github.com/OwenGriere/Lab_Book">
+    <img src="logo/logo_lab_book.png" alt="Lab Book" width="200"/>
+  </a>
+</p>
 
 ## Tools (Work in Progress)
 
