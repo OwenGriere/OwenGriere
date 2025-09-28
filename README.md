@@ -2,6 +2,9 @@
 
 Ingénieur Bio-informaticien
 
+👉 Découvrez mon profil : [Profil](https://owengriere.github.io/)
+
+
 ## Tools
 
 Dans ce dépot vous pouvez accéder à mes rapports Latex
