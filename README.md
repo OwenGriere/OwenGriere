@@ -9,11 +9,9 @@ Ingénieur Bio-informaticien
 
 Dans ce dépot vous pouvez accéder à mes rapports Latex
 
-<p align="left">
-  <a href="https://github.com/OwenGriere/Lab_Book">
-    <img src="logo/logo_lab_book.png" alt="Lab Book" width="100"/>
-  </a>
-</p>
+| <p align="left"><a href="https://github.com/OwenGriere/Lab_Book"><img src="logo/logo_lab_book.png" alt="Lab Book" width="100"/></a></p> |
+|--------------|
+| **Lab Book**  ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white) |
 
 ## Tools (Work in Progress)
 
