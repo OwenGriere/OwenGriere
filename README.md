@@ -23,6 +23,6 @@ C'est dans cette section que mes outils sont en cours de développemement
 |-------------------------|--------------------------------|--------------------------------------|
 | **SyNetBuilder**             | **PDAC Modeling**                 | **MOSNA GUI**                   |
 
-| [![AI_Model](logo/logo_AI_model.png)](https://github.com/OwenGriere/AI_Model) |  |  |
+| [![AI_Model](logo/logo_AI_model.png)](https://github.com/OwenGriere/Model_Training) |  |  |
 |--|--|--|
 | **AI Model** | **** | **** |
