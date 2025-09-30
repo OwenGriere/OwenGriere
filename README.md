@@ -11,7 +11,7 @@ Dans ce dépot vous pouvez accéder à mes rapports Latex
 
 <p align="left">
   <a href="https://github.com/OwenGriere/Lab_Book">
-    <img src="logo/logo_lab_book.png" alt="Lab Book" width="200"/>
+    <img src="logo/logo_lab_book.png" alt="Lab Book" width="100"/>
   </a>
 </p>
 
@@ -20,5 +20,9 @@ Dans ce dépot vous pouvez accéder à mes rapports Latex
 C'est dans cette section que mes outils sont en cours de développemement 
 
 | [![SyNetBuilder](logo/logo_SyNetBuilder.png)](https://github.com/OwenGriere/SyNetBuilder) | [![PDAC_modeling](logo/logo_PDAC_Modeling.png)](https://github.com/OwenGriere/PDAC_Modeling) | [![MOSNA_GUI](logo/logo_Mosna_GUI.png)](https://github.com/OwenGriere/MOSNA_GUI) |
-|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-| **SyNetBuilder**                                                | **PDAC Modeling**                                                | **MOSNA GUI**                                                |
+|-------------------------|--------------------------------|--------------------------------------|
+| **SyNetBuilder**             | **PDAC Modeling**                 | **MOSNA GUI**                   |
+
+| [![AI_Model](logo/logo_AI_model.png)](https://github.com/OwenGriere/AI_Model) |  |  |
+|--|--|--|
+| **AI Model** | **** | **** |
