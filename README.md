@@ -7,11 +7,18 @@ Ingénieur Bio-informaticien
 
 ## Tools
 
-Dans ce dépot vous pouvez accéder à mes rapports Latex
+Dans ce dépot sont stockés et créer mes rapports Latex
 
 | <p align="left"><a href="https://github.com/OwenGriere/Lab_Book"><img src="logo/logo_lab_book.png" alt="Lab Book" width="150"/></a></p> |
 |--------------|
 | **Lab Book**  ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white) |
+
+Tout les rapports sont présent ici pour ceux y ayant accès :
+
+| **Report Description** | **Link to download the report** |
+|------------------------|---------------------------------|
+| Stage M2 | [📄 Download the PDF](https://github.com/OwenGriere/Lab_Book/PDF/Stage_M2.pdf) |
+| TP Monte Carlo | [📄 Download the PDF](https://github.com/OwenGriere/Lab_Book/PDF/TP_MDCG.pdf) |
 
 ## Tools (Work in Progress)
 
