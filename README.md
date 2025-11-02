@@ -17,8 +17,8 @@ Tout les rapports sont présent ici pour ceux y ayant accès :
 
 | **Report Description** | **Link to download the report** |
 |------------------------|---------------------------------|
-| Stage M2 | [📄 Download the PDF](https://github.com/OwenGriere/Lab_Book/PDF/Stage_M2.pdf) |
-| TP Monte Carlo | [📄 Download the PDF](https://github.com/OwenGriere/Lab_Book/PDF/TP_MDCG.pdf) |
+| Stage M2 | [📄 Download the PDF](https://github.com/OwenGriere/Lab_Book/tree/master/PDF/Stage_M2.pdf) |
+| TP Monte Carlo | [📄 Download the PDF](https://github.com/OwenGriere/Lab_Book/tree/master/PDF/TP_MDCG.pdf) |
 
 ## Tools (Work in Progress)
 
