@@ -27,8 +27,6 @@ C'est dans cette section que mes outils sont en cours de développemement
 |-------------------------|--------------------------------|--------------------------------------|
 | **SyNetBuilder** | **PDAC Modeling** | **MOSNA GUI** |
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-
-
 | [![AI_Model](logo/logo_AI_model.png)](https://github.com/OwenGriere/Model_Training) |  |  |
 |-------------------------|--------------------------------|--------------------------------------|
 | **AI Model** |  |  |
