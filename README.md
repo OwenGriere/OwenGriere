@@ -1,4 +1,4 @@
-# Owen Griere Git
+# Owen Griere GitHub
 
 Ingénieur Bio-informaticien
 
