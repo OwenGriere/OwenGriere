@@ -20,9 +20,9 @@ C'est dans cette section que mes outils sont en cours de développemement
 
 | [![SyNetBuilder](logo/logo_SyNetBuilder.png)](https://github.com/OwenGriere/SyNetBuilder) | [![PDAC_modeling](logo/logo_PDAC_Modeling.png)](https://github.com/OwenGriere/PDAC_Modeling) | [![MOSNA_GUI](logo/logo_Mosna_GUI.png)](https://github.com/OwenGriere/MOSNA_GUI) |
 |-------------------------|--------------------------------|--------------------------------------|
-| <div align="center"><b>SyNetBuilder</b></div> | <div align="center"><b>PDAC Modelling</b></div> | <div align="center"><b>MOSNA GUI</b></div> |
+| <div align="center"><b>SyNetBuilder</b> <br> *Tool for reconstructing synthetic networks from assortativity data* </div> | <div align="center"><b>PDAC Modelling</b> <br> *Pancreatic Ductal Adenocarcinoma Cancer modeling with an agent-based model PhysiCell* </div> | <div align="center"><b>MOSNA GUI</b> <br> *Graphical interface wrapping Tysserand and MOSNA to simplify their use* </div> |
 | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> |
 | | <div align="center">[![AI_Model](logo/logo_AI_model.png)](https://github.com/OwenGriere/Model_Training) |  |
-| | <div align="center"><b>AI Model</b></div> |  |
+| | <div align="center"><b>AI Model</b> <br> *Various IA models* </div> |  |
 | | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> |  |
 
