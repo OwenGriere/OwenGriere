@@ -22,7 +22,7 @@ C'est dans cette section que mes outils sont en cours de développemement
 |-------------------------|--------------------------------|--------------------------------------|
 | <div align="center"><b>SyNetBuilder</b></div> | <div align="center"><b>PDAC Modelling</b></div> | <div align="center"><b>MOSNA GUI</b></div> |
 | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> |
-| <div align="center">[![AI_Model](logo/logo_AI_model.png)](https://github.com/OwenGriere/Model_Training) |  |  |
-| <div align="center"><b>AI Model</b></div> |  |  |
-| <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> |  |  |
+| | <div align="center">[![AI_Model](logo/logo_AI_model.png)](https://github.com/OwenGriere/Model_Training) |  |
+| | <div align="center"><b>AI Model</b></div> |  |
+| | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> |  |
 
