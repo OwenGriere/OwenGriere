@@ -7,11 +7,9 @@ Ingénieur Bio-informaticien
 
 ## Tools
 
-Dans ce dépot sont stockés et créer mes rapports Latex
-
 | <p align="left"><a href="https://github.com/OwenGriere/Lab_Book"><img src="logo/logo_lab_book.png" alt="Lab Book" width="150"/></a></p> |
 |--------------|
-| <div align="center"><b>Lab Book</b></div>  |
+| <div align="center"><b>Lab Book</b> <br> *Repository where Latex reports are stored (Project and Project Monitoring)* </div>  |
 | <div align="center">![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)</div> |
 
 ## Tools (Work in Progress)
