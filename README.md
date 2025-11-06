@@ -14,12 +14,6 @@ Dans ce dépot sont stockés et créer mes rapports Latex
 | <div align="center"><b>Lab Book</b></div>  |
 | <div align="center">![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)</div> |
 
-Tout les rapports sont présent ici pour ceux y ayant accès :
-
-| **Report Description** | **Link to download the report** |
-|------------------------|---------------------------------|
-| Stage M2 | [📄 Download the PDF](https://github.com/OwenGriere/Lab_Book/tree/master/PDF/Stage_M2.pdf) |
-
 ## Tools (Work in Progress)
 
 C'est dans cette section que mes outils sont en cours de développemement 
