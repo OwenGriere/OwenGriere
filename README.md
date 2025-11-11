@@ -1,6 +1,3 @@
-<img src="https://github.com/OwenGriere/owengriere.github.io/tree/main/assets/images/background/background-2.png" width="100%"/>
-
-
 # Owen Griere GitHub
 
 Ingénieur Bio-informaticien
