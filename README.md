@@ -8,13 +8,22 @@ Ingénieur Bio-informaticien
 
 C'est dans cette section que mes outils sont en cours de développemement 
 
-| [![SyNetBuilder](logo/logo_SyNetBuilder.png)](https://github.com/OwenGriere/SyNetBuilder) | [![PDAC_modeling](logo/logo_PDAC_Modeling.png)](https://github.com/OwenGriere/PDAC_Modeling) | [![MOSNA_GUI](logo/logo.ico)](https://github.com/OwenGriere/MOSNA_GUI) |
+### Suite Mosna
+
+| ![Nouveau tool](logo/placeholder.png) | [![MOSNA_GUI](logo/logo.ico)](https://github.com/OwenGriere/MOSNA_GUI) | [![Mosna_Cluster](logo/mosna_cluster.ico)](https://github.com/OwenGriere/MOSNA_Cluster) |
 |-------------------------|--------------------------------|--------------------------------------|
-| <div align="center"><b>SyNetBuilder</b> <br> *Tool for reconstructing synthetic networks from assortativity data* </div> | <div align="center"><b>PDAC Modelling</b> <br> *Pancreatic Ductal Adenocarcinoma Cancer modeling with an agent-based model PhysiCell* </div> | <div align="center"><b>MOSNA GUI</b> <br> *Graphical interface wrapping Tysserand and MOSNA to simplify their use* </div> |
-| <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | <div align="center">![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> |
-|<div align="center">[![MORFEE](logo/Logo_MORFEE.png)](https://github.com/OwenGriere/MORFEEusing_tool)</div> | <div align="center">[![Cyto_seg](logo/Cyto_seg.png)](https://github.com/OwenGriere/CytoSeg)</div> | <div align="center">[![Mosna_Cluster](logo/mosna_cluster.ico)](https://github.com/OwenGriere/MOSNA_Cluster)</div> |
-| <div align="center"><b>MORFEE Wrapper</b> <br> *A Nextflow tools with MORFEE to analyse VCF larges datasets* </div> | <div align="center"><b>CytoSeg</b> <br> *Segmentation method using ellipse optimisation to segment CAF thanks to marker* | <div align="center"><b>MOSNA Cluster</b> <br> *Tool to use Mosna on cluster as Genotoul* |
-| <div align="center">![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Nextflow](https://img.shields.io/badge/Nextflow-16A085?logo=nextflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | <div align="center">![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> |
+| <div align="center"><b>À compléter</b> <br> *Description du nouveau tool* </div> | <div align="center"><b>MOSNA GUI</b> <br> *Graphical interface wrapping Tysserand and MOSNA to simplify their use* </div> | <div align="center"><b>MOSNA Cluster</b> <br> *Tool to use Mosna on cluster as Genotoul* </div> |
+| <div align="center">*badges à ajouter*</div> | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | <div align="center">![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> |
+
+### Autres outils
+
+| [![PDAC_modeling](logo/logo_PDAC_Modeling.png)](https://github.com/OwenGriere/PDAC_Modeling) | [![SyNetBuilder](logo/logo_SyNetBuilder.png)](https://github.com/OwenGriere/SyNetBuilder) | [![MORFEE](logo/Logo_MORFEE.png)](https://github.com/OwenGriere/MORFEEusing_tool) |
+|-------------------------|--------------------------------|--------------------------------------|
+| <div align="center"><b>PDAC Modelling</b> <br> *Pancreatic Ductal Adenocarcinoma Cancer modeling with an agent-based model PhysiCell* </div> | <div align="center"><b>SyNetBuilder</b> <br> *Tool for reconstructing synthetic networks from assortativity data* </div> | <div align="center"><b>MORFEE Wrapper</b> <br> *A Nextflow tools with MORFEE to analyse VCF larges datasets* </div> |
+| <div align="center">![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | <div align="center">![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Nextflow](https://img.shields.io/badge/Nextflow-16A085?logo=nextflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> |
+| [![Cyto_seg](logo/Cyto_seg.png)](https://github.com/OwenGriere/CytoSeg) | ![Nouveau tool](logo/placeholder.png) | ![Nouveau tool](logo/placeholder.png) |
+| <div align="center"><b>CytoSeg</b> <br> *Segmentation method using ellipse optimisation to segment CAF thanks to marker* </div> | <div align="center"><b>À compléter</b> <br> *Description du nouveau tool* </div> | <div align="center"><b>À compléter</b> <br> *Description du nouveau tool* </div> |
+| <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | <div align="center">*badges à ajouter*</div> | <div align="center">*badges à ajouter*</div> |
 
 ## Repository where Latex reports are stored (Project and Project Monitoring)
 
