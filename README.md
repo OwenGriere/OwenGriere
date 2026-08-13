@@ -10,10 +10,8 @@ C'est dans cette section que mes outils sont en cours de développemement
 
 ### Suite Mosna
 
-| [<img src="logo/logo_mosna_E.ico" width="80" height="80">](https://github.com/OwenGriere/MOSNA_Enhanced) | [<img src="logo/logo.ico" width="80" height="80">](https://github.com/OwenGriere/MOSNA_GUI) | [<img src="logo/mosna_cluster.ico" width="80" height="80">](https://github.com/OwenGriere/MOSNA_Cluster) |
+| [<img src="logo/logo_mosna_E.ico" width="300" height="300">](https://github.com/OwenGriere/MOSNA_Enhanced) | [<img src="logo/logo.ico" width="300" height="300">](https://github.com/OwenGriere/MOSNA_GUI) | [<img src="logo/mosna_cluster.ico" width="300" height="300">](https://github.com/OwenGriere/MOSNA_Cluster) |
 |:-------------------------:|:--------------------------------:|:--------------------------------------:|
-| <div align="center"><b>MOSNA Enhanced</b> <br> *MOSNA and network building rewritten in Rust with a new graphical interface* </div> | <div align="center"><b>MOSNA GUI</b> <br> *Graphical interface wrapping Tysserand and MOSNA to simplify their use* </div> | <div align="center"><b>MOSNA Cluster</b> <br> *Tool to use Mosna on cluster as Genotoul* </div> |
-| <div align="center">![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)</div> | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | <div align="center">![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> |
 | <div align="center"><b>MOSNA Enhanced</b> <br> *MOSNA and network building rewritten in Rust with a new graphical interface* </div> | <div align="center"><b>MOSNA GUI</b> <br> *Graphical interface wrapping Tysserand and MOSNA to simplify their use* </div> | <div align="center"><b>MOSNA Cluster</b> <br> *Tool to use Mosna on cluster as Genotoul* </div> |
 | <div align="center">![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)</div> | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> | <div align="center">![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)</div> |
 
